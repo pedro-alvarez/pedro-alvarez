@@ -1,3 +1,5 @@
+![Banner](./github-header-image.png)
+
 ## 👋 Fala aí, eu sou o Pedro
 
 🎓 Estudante de Engenharia da Computação na FIAP (3º semestre)  
@@ -29,7 +31,4 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<br>
-<p align="center">
-  <img src="https://github.com/alvzpedro/alvzpedro/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
+
