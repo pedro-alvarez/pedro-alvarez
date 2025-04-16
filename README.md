@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/pedro-alvarez/pedro-alvarez/refs/heads/main/github-header-image.png"  />
+  <img height="150" src="https://raw.githubusercontent.com/pedro-alvarez/pedro-alvarez/refs/heads/main/github-header-image.png"  />
 </div>
 
 ###
