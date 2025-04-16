@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre Mim</h3>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagens</h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Stats:</h3>
 
 ###
 
