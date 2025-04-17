@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🎓 Estudante de Engenharia da Computação na FIAP (3º semestre)<br>💻 Curioso por tecnologia, com foco em desenvolvimento web (front e back-end), suporte técnico e análise de dados<br>🔧 Conhecimentos básicos em Python, Java, HTML, JavaScript e banco de dados<br>📚 Atualmente aprendendo Git, versionamento de código e boas práticas em desenvolvimento web<br>🚀 Aberto a estágios, projetos colaborativos e qualquer oportunidade de crescer e trocar ideia com a galera da área<br>⚡ No tempo livre? Gosto de explorar novas stacks, fuçar em projetos pessoais e aprender com a prática</p>
+<p align="left">🎓 Estudante de Engenharia da Computação na FIAP (3º semestre)<br>💻 Curioso por tecnologia, com foco em desenvolvimento web (front e back-end), suporte técnico e análise de dados<br>🔧 Conhecimentos básicos em Python, Java, HTML, JavaScript e banco de dados<br>📚 Atualmente aprendendo Git, versionamento de código e boas práticas em desenvolvimento web<br>🚀 Aberto a estágios, projetos colaborativos e qualquer oportunidade de crescer e trocar ideia com a galera da área<br></p>
 
 ###
 
